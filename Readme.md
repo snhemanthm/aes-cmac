@@ -1,3 +1,5 @@
+Originally from https://github.com/rosek86/aes-cmac
+
 # AES-CMAC
 
 AES CMAC implementation in typescript.
